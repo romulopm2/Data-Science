@@ -7,6 +7,3 @@
 [Regression](/Regression)
 
 [Optimization Methods](/Optimization%20Methods)
-
-[Fuzzy](/Fuzzy)
-
